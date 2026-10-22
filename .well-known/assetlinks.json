@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.anandswaroop1616_sys.twa",
+      "sha256_cert_fingerprints": [
+        "97:F6:A4:C3:18:7F:FF:50:37:24:BE:C6:09:7A:6C:29:7D:1F:5F:71:2C:01:28:E9:88:0F:73:BF:3C:E2:44:AD"
+      ]
+    }
+  }
+]
